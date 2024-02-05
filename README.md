@@ -1,7 +1,8 @@
 # commone-script-exe-by-py
 常用的exe脚本，由python编写
 
-
+## 安装py转换exe环境
+pip install pyinstaller
 
 脚本说明：
 
