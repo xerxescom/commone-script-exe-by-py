@@ -2,7 +2,9 @@
 常用的exe脚本，由python编写
 
 ## 安装py转换exe环境
-pip install pyinstaller
+pip install nuitko
+
+nuitka --standalone .\batch_rename.py
 
 脚本说明：
 
