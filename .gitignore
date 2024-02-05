@@ -1,0 +1,16 @@
+# 忽略所有以 .pyc 结尾的文件
+*.pyc
+
+# 忽略 __pycache__ 目录
+__pycache__
+
+# 忽略 tests/ 目录下的所有文件和目录
+tests/
+
+# 忽略 data/ 目录下的所有文件和目录
+data/
+
+# 忽略 .env 文件
+.env
+
+.idea
