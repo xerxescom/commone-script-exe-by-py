@@ -2,11 +2,19 @@
 常用python脚本的exe封装
 
 ## 安装py转换exe环境
-pip install nuitko
+pip install nuitka -i https://pypi.doubanio.com/simple
 
+### ubuntu
+conda install libpython-static
+sudo apt install patchelf
+
+
+## 示例
 nuitka --standalone .\batch_rename.py
 
 脚本说明：
+
+pip install -r requirements.txt -i https://pypi.doubanio.com/simple
 
 1、batch_rename
 
