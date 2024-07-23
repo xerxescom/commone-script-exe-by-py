@@ -1,5 +1,5 @@
 # commone-script-exe-by-py
-常用的exe脚本，由python编写
+常用python脚本的exe封装
 
 ## 安装py转换exe环境
 pip install nuitko
